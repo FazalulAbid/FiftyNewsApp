@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "508102095358",
+    "firebase_url": "https://fifty-news-default-rtdb.firebaseio.com",
+    "project_id": "fifty-news",
+    "storage_bucket": "fifty-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508102095358:android:7ae03194e46cee31a4d0af",
+        "android_client_info": {
+          "package_name": "com.example.fiftynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508102095358-suqhinbp60q4k33nd4stqiuskjsf36d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiftynews",
+            "certificate_hash": "8827b18a05f9535e9af5830a04e99da77e6e9bad"
+          }
+        },
+        {
+          "client_id": "508102095358-uq2vhbur4onebe73753lkishl5s34hj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGj62PU1RJWEdg6o7HMDHyi881ZUVPUwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508102095358-uq2vhbur4onebe73753lkishl5s34hj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508102095358:android:0bbf415d75dcb8d8a4d0af",
+        "android_client_info": {
+          "package_name": "com.fifty.fiftynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508102095358-na5k06akd6uu9tjk47k6e45otssqtm06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fifty.fiftynews",
+            "certificate_hash": "8827b18a05f9535e9af5830a04e99da77e6e9bad"
+          }
+        },
+        {
+          "client_id": "508102095358-uq2vhbur4onebe73753lkishl5s34hj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGj62PU1RJWEdg6o7HMDHyi881ZUVPUwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508102095358-uq2vhbur4onebe73753lkishl5s34hj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508102095358:android:0582f4ae14e81bc8a4d0af",
+        "android_client_info": {
+          "package_name": "com.fifty.fiftynewsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508102095358-477qd39sn3gjd65ai3n73vpng30oq701.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fifty.fiftynewsadmin",
+            "certificate_hash": "8827b18a05f9535e9af5830a04e99da77e6e9bad"
+          }
+        },
+        {
+          "client_id": "508102095358-uq2vhbur4onebe73753lkishl5s34hj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGj62PU1RJWEdg6o7HMDHyi881ZUVPUwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508102095358-uq2vhbur4onebe73753lkishl5s34hj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
